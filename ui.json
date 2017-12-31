@@ -1,0 +1,18 @@
+{
+  "defaultEntryPoint": "index.html",
+  "namespace": "AfterPay",
+  "menuEntries": [
+    {
+      "label": "Rechnung",
+      "menu": "settings/orders/payment/invoice",
+      "urlKey": "invoice",
+      "entryPoint": "index.html"
+    },
+      {
+      "label": "Ratenzahlung",
+      "menu": "settings/orders/payment/installments",
+      "urlKey": "installments",
+      "entryPoint": "index.html"
+    }
+  ]
+}
