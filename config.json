@@ -34,53 +34,79 @@
 	{
 		"tab": "Germany",
 		"key": "de_invoice_active",
-		"label": "Invoice activated",
+		"label": "Invoice - activated",
 		"type": "checkbox",
 		"default": true
 	},
 	{
 		"tab": "Germany",
 		"key": "de_invoice_title",
-		"label": "Invoice Titel",
+		"label": "Invoice - Titel",
 		"type": "text",
 		"default": "Invoice"
 	},
 	{
 		"tab": "Germany",
 		"key": "de_invoice_description",
-		"label": "Invoice Description",
+		"label": "Invoice - Description",
 		"type": "text"
 	},
 	{
 		"tab": "Germany",
 		"key": "de_invoice_fee",
-		"label": "Invoice Fee",
+		"label": "Invoice - Fee",
 		"type": "text"
 	},
     {
 		"tab": "Germany",
 		"key": "de_dd_active",
-		"label": "Direct Debit activated",
+		"label": "Direct Debit - activated",
 		"type": "checkbox",
 		"default": true
 	},
 	{
 		"tab": "Germany",
 		"key": "de_dd_title",
-		"label": "Direct Debit Titel",
+		"label": "Direct Debit - Titel",
 		"type": "text",
 		"default": "Invoice"
 	},
 	{
 		"tab": "Germany",
 		"key": "de_dd_description",
-		"label": "Direct Debit Description",
+		"label": "Direct Debit - Description",
 		"type": "text"
 	},
 	{
 		"tab": "Germany",
 		"key": "de_dd_fee",
-		"label": "Direct Debit Fee",
+		"label": "Direct Debit - Fee",
+		"type": "text"
+	},
+    {
+		"tab": "Germany",
+		"key": "de_installment_active",
+		"label": "Installment - activated",
+		"type": "checkbox",
+		"default": true
+	},
+	{
+		"tab": "Germany",
+		"key": "de_installment_title",
+		"label": "Installment - Titel",
+		"type": "text",
+		"default": "Invoice"
+	},
+	{
+		"tab": "Germany",
+		"key": "de_installment_description",
+		"label": "Installment - Description",
+		"type": "text"
+	},
+	{
+		"tab": "Germany",
+		"key": "de_installment_fee",
+		"label": "Installment - Fee",
 		"type": "text"
 	},
 	{
