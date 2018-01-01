@@ -32,29 +32,55 @@
 		"default": "11.3"
 	},
 	{
-		"tab": "Alipay",
-		"key": "alipay_active",
-		"label": "Aktiv",
+		"tab": "Germany",
+		"key": "de_invoice_active",
+		"label": "Invoice activated",
 		"type": "checkbox",
 		"default": true
 	},
 	{
-		"tab": "Alipay",
-		"key": "alipay_title",
-		"label": "Titel",
+		"tab": "Germany",
+		"key": "de_invoice_title",
+		"label": "Invoice Titel",
 		"type": "text",
-		"default": "Alipay"
+		"default": "Invoice"
 	},
 	{
-		"tab": "Alipay",
-		"key": "alipay_description",
-		"label": "Description",
+		"tab": "Germany",
+		"key": "de_invoice_description",
+		"label": "Invoice Description",
 		"type": "text"
 	},
 	{
-		"tab": "Alipay",
-		"key": "alipay_fee",
-		"label": "Fee",
+		"tab": "Germany",
+		"key": "de_invoice_fee",
+		"label": "Invoice Fee",
+		"type": "text"
+	},
+    {
+		"tab": "Germany",
+		"key": "de_dd_active",
+		"label": "Direct Debit activated",
+		"type": "checkbox",
+		"default": true
+	},
+	{
+		"tab": "Germany",
+		"key": "de_dd_title",
+		"label": "Direct Debit Titel",
+		"type": "text",
+		"default": "Invoice"
+	},
+	{
+		"tab": "Germany",
+		"key": "de_dd_description",
+		"label": "Direct Debit Description",
+		"type": "text"
+	},
+	{
+		"tab": "Germany",
+		"key": "de_dd_fee",
+		"label": "Direct Debit Fee",
 		"type": "text"
 	},
 	{
